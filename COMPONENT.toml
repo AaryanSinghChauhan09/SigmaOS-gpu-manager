@@ -3,7 +3,7 @@ name = "SigmaOS-gpu-manager2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gpu-manager2 component"
+description = "GPU Manager gpu manager compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
